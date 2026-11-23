@@ -64,4 +64,4 @@ In the sample medium PDP run shown below (**Objective Value: `105.0`**, **Solve 
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/two-tier-delivery-network.git](https://github.com/yourusername/two-tier-delivery-network.git)
+   git clone [https://github.com/ivaylo-iliev-31/two-tier-delivery-network.git](https://github.com/yourusername/two-tier-delivery-network.git)
