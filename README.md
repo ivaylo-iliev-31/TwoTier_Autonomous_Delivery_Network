@@ -32,7 +32,7 @@ The solver seeks to satisfy all delivery deadlines and collection time windows w
 2. A variable cost applied to van movement (and conditionally to van idling, depending on the network graph).
 3. A variable cost tied directly to the total energy consumed by the rover fleet during ground operations.
 
-## Results & Visualizations
+## Results & Visualizations - Pick-Up and Delivery with Recharge included
 
 In the sample medium PDP run shown below (**Objective Value: `105.0`**, **Solve Time: `3600.06s`**, 20 time steps, 8 drop-off packages `D:0–D:7`, and 5 collection packages `C:0–C:4`), **Van 1** coordinates with **Rovers 1–4** across sectors `S0–S11`.
 
